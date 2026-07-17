@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=2EA1FF&center=true&vCenter=true&width=650&lines=I+build+apps+with+Flutter+%26+Dart+📱;I+build+APIs+with+Node.js+⚙️;One+developer.+Full+product.+End+to+end.+🚀" />
+<img src="stn.jpg" />
 
 <br/><br/>
 
